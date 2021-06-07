@@ -8,5 +8,8 @@ RENCANA KERJAAN
     -typescript gaada masalah
     -schema json juga bisa
   -testcase e2e jago
+    -sangat teliti dan gaada bug lagi
 -bulan ke 5 magang siap2 cari kerjaan lain buat jaga2
+  -cari di glints lagi keknya
   -mau coba nyari di jobstreet dan kalibrr
+
