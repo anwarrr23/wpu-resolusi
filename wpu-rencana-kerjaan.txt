@@ -2,4 +2,6 @@ RENCANA KERJAAN
 
 -pengennya sih tetep di forky tapi kayaknya harus bsia fe dan be deh
 -HARUS BELAJAR FE DAN BE KALO UDAH JAGO QA
+  -AT bisa
+  -testcase e2e jago
 -bulan ke 5 magang siap2 cari kerjaan lain buat jaga2
