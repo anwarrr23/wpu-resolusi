@@ -6,3 +6,4 @@ RENCANA KERJAAN
   -testcase e2e jago
     -sangat teliti dan gaada bug lagi
 -bulan ke 5 magang siap2 cari kerjaan lain buat jaga2
+  -cari di glints lagi keknya
