@@ -9,3 +9,4 @@ RENCANA KERJAAN
     -schema json juga bisa
   -testcase e2e jago
 -bulan ke 5 magang siap2 cari kerjaan lain buat jaga2
+  -mau coba nyari di jobstreet dan kalibrr
