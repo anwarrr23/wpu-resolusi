@@ -4,4 +4,5 @@ RENCANA KERJAAN
 -HARUS BELAJAR FE DAN BE KALO UDAH JAGO QA
   -AT bisa
   -testcase e2e jago
+    -sangat teliti dan gaada bug lagi
 -bulan ke 5 magang siap2 cari kerjaan lain buat jaga2
