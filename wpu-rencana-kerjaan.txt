@@ -4,6 +4,7 @@ RENCANA KERJAAN
   -harus giat dan tekun
 -HARUS BELAJAR FE DAN BE KALO UDAH JAGO QA
   -AT bisa
+    -paham sistem
     -regex bisa
     -typescript gaada masalah
     -schema json juga bisa
